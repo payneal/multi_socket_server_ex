@@ -1,0 +1,24 @@
+{
+  "name": "sample-multi-socket",
+  "version": "1.0.0",
+  "description": "easy multi socket example",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "express": "^4.16.3",
+    "install": "^0.11.0",
+    "melanke-watchjs": "^1.4.3",
+    "net": "^1.0.2",
+    "nodemon": "^1.17.3",
+    "npm": "^5.8.0",
+    "should": "^13.2.1",
+    "util": "^0.10.3",
+    "uuid": "^3.2.1"
+  }
+}
